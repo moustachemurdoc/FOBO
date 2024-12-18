@@ -11,3 +11,5 @@ FOBO is a creative app designed to help users craft stunning moodboards effortle
 ## Solution Concept
 
 FOBO aims to simplify the process of creating moodboards for designers, artists, and creative professionals. The app is in its conceptual stage, with a high-fidelity prototype developed using Sketch. The prototype demonstrates the core user experience, focusing on simplicity and functionality to meet the needs of creative users.
+
+![Prototype Screenshot]()
