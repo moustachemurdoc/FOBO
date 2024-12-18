@@ -14,3 +14,4 @@ FOBO aims to simplify the process of creating moodboards for designers, artists,
 
 ![Prototype Screenshot](https://github.com/moustachemurdoc/FOBO/blob/main/home.png)
 ![Prototype Screenshot](https://github.com/moustachemurdoc/FOBO/blob/main/moodboard%20%2B%20pinterest.png)
+![Prototype Screenshot](https://github.com/moustachemurdoc/FOBO/blob/main/moodboard.png)
